@@ -1,6 +1,6 @@
 # Meta sequence-to-sequence learning
 
-This repository is currently a placeholder for meta seq2seq learning code, written in PyTorch. The code is coming soon.
+This repository is currently a placeholder for meta seq2seq learning code, written in PyTorch. The official open source implementation will be available soon. In the meantime, you can email me if you would like to try the code brenden@nyu.edu
 
 ### NeurIPS2019 Poster
 
